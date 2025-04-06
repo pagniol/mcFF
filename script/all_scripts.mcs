@@ -1,0 +1,152 @@
+
+2_2
+sequence( RNA A1 NN )
+sequence( RNA B1 NN )
+relation(
+ A1 B2 { pairing }
+ A2 B1 { pairing })
+
+2_3
+sequence( RNA A1 NN )
+sequence( RNA B1 NNN )
+relation(
+A1 B3 { pairing }
+A2 B1 { pairing })
+
+2_4
+sequence( RNA A1 NN )
+sequence( RNA B1 NNNN )
+relation(
+A1 B4 { pairing }
+A2 B1 { pairing })
+
+2_5
+sequence( RNA A1 NN )
+sequence( RNA B1 NNNNN )
+relation(
+A1 B5 { pairing }
+A2 B1 { pairing })
+
+2_6
+sequence( RNA A1 NN )
+sequence( RNA B1 NNNNNN )
+relation(
+A1 B1 { pairing }
+A2 B6 { pairing })
+
+3_2
+sequence( RNA A1 NNN )
+sequence( RNA B1 NN )
+relation(
+A1 B2 { pairing }
+A3 B1 { pairing })
+
+3_3
+sequence( RNA A1 NNN )
+sequence( RNA B1 NNN )
+relation(
+A1 B3 { pairing }
+A3 B1 { pairing })
+
+3_4
+sequence( RNA A1 NNN )
+sequence( RNA B1 NNNN )
+relation(
+A1 B4 { pairing }
+A3 B1 { pairing })
+
+3_5
+sequence( RNA A1 NNN )
+sequence( RNA B1 NNNNN )
+relation(
+A1 B5 { pairing }
+A3 B1 { pairing })
+
+4_2
+sequence( RNA A1 NNNN )
+sequence( RNA B1 NN )
+relation(
+A1 B2 { pairing }
+A4 B1 { pairing })
+
+4_3
+sequence( RNA A1 NNNN )
+sequence( RNA B1 NNN )
+relation(
+A1 B3 { pairing }
+A4 B1 { pairing })
+
+4_4
+sequence( RNA A1 NNNN )
+sequence( RNA B1 NNNN )
+relation(
+A1 B4 { pairing }
+A4 B1 { pairing })
+
+5_2
+sequence( RNA A1 NNNNN )
+sequence( RNA B1 NN )
+relation(
+A1 B2 { pairing }
+A5 B1 { pairing })
+
+5_3
+sequence( RNA A1 NNNNN )
+sequence( RNA B1 NNN )
+relation(
+A1 B3 { pairing }
+A5 B1 { pairing })
+
+1_3
+sequence( RNA A1 NNN )
+relation(
+A1 A3 { pairing })
+
+1_4
+sequence( RNA A1 NNNN )
+relation(
+A1 A4 { pairing })
+
+1_5
+sequence( RNA A1 NNNNN )
+relation(
+A1 A5 { pairing })
+
+1_6
+sequence( RNA A1 NNNNNN )
+relation(
+A1 A6 { pairing })
+
+1_7
+sequence( RNA A1 NNNNNNN )
+relation(
+A1 A7 { pairing })
+
+2_1
+sequence( RNA A1 NN )
+sequence( RNA B1 N )
+relation(
+A1 B1 { pairing }
+A2 B1 { pairing })
+
+1_2
+sequence( RNA A1 N )
+sequence( RNA B1 NN )
+relation(
+A1 B2 { pairing }
+A1 B1 { pairing } )
+
+3_1
+sequence( RNA A1 NNN )
+sequence( RNA B1 N )
+relation(
+A1 B1 { pairing }
+A3 B1 { pairing } )
+
+1_3
+sequence( RNA A1 N )
+sequence( RNA B1 NNN )
+relation(
+A1 B3 { pairing }
+A1 B1 { pairing } )
+

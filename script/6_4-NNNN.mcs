@@ -1,0 +1,7 @@
+sequence( RNA A1 NNNNNN )
+sequence( RNA B1 NNNN )
+relation(
+ A1 B4 { pairing }
+ A6 B1 { pairing }
+)
+

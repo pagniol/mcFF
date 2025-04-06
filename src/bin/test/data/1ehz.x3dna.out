@@ -1,0 +1,47 @@
+Processing file '/home/sagniol/my-files/stage-E24/bin/test/1ehz.pdb'
+  A.U.16 0.205
+  A.U.17 0.226
+A.U39 has unusual GLYCOSIDIC bond!
+A.U55 has unusual GLYCOSIDIC bond!
+    total number of nucleotides: 76
+    total number of base pairs: 34
+
+****************************************************************************
+List of 34 base pairs
+     nt1            nt2            bp  name        Saenger   LW   DSSR
+   1 A.G1           A.C72          G-C WC          19-XIX    cWW  cW-W
+   2 A.C2           A.G71          C-G WC          19-XIX    cWW  cW-W
+   3 A.G3           A.C70          G-C WC          19-XIX    cWW  cW-W
+   4 A.G4           A.U69          G-U Wobble      28-XXVIII cWW  cW-W
+   5 A.A5           A.U68          A-U WC          20-XX     cWW  cW-W
+   6 A.U6           A.A67          U-A WC          20-XX     cWW  cW-W
+   7 A.U7           A.A66          U-A WC          20-XX     cWW  cW-W
+   8 A.U8           A.A14          U-A rHoogsteen  24-XXIV   tWH  tW-M
+   9 A.U8           A.A21          U+A --          --        tSW  tm+W
+  10 A.A9           A.A23          A+A --          02-II     tHH  tM+M
+  11 A.G10          A.C25          G-C WC          19-XIX    cWW  cW-W
+  12 A.G10          A.G45          G+G --          --        cHS  cM+m
+  13 A.C11          A.G24          C-G WC          19-XIX    cWW  cW-W
+  14 A.U12          A.A23          U-A WC          20-XX     cWW  cW-W
+  15 A.C13          A.G22          C-G WC          19-XIX    cWW  cW-W
+  16 A.G15          A.C48          G+C rWC         22-XXII   tWW  tW+W
+  17 A.U16          A.U59          U+U --          --        tSW  tm+W
+  18 A.G18          A.U55          G-U --          --        tWH  tW-M
+  19 A.G19          A.C56          G-C WC          19-XIX    cWW  cW-W
+  20 A.G22          A.G46          G-G --          07-VII    tHW  tM-W
+  21 A.G26          A.A44          G-A Imino       08-VIII   cWW  cW-W
+  22 A.C27          A.G43          C-G WC          19-XIX    cWW  cW-W
+  23 A.C28          A.G42          C-G WC          19-XIX    cWW  cW-W
+  24 A.A29          A.U41          A-U WC          20-XX     cWW  cW-W
+  25 A.G30          A.C40          G-C WC          19-XIX    cWW  cW-W
+  26 A.A31          A.U39          A+U --          --        cWW  cW+W
+  27 A.C32          A.A38          C-A --          --        c.W  c.-W
+  28 A.U33          A.A36          U-A --          --        tSH  tm-M
+  29 A.C49          A.G65          C-G WC          19-XIX    cWW  cW-W
+  30 A.U50          A.A64          U-A WC          20-XX     cWW  cW-W
+  31 A.G51          A.C63          G-C WC          19-XIX    cWW  cW-W
+  32 A.U52          A.A62          U-A WC          20-XX     cWW  cW-W
+  33 A.G53          A.C61          G-C WC          19-XIX    cWW  cW-W
+  34 A.U54          A.A58          U-A rHoogsteen  24-XXIV   tWH  tW-M
+
+Time used: 00:00:00:00
